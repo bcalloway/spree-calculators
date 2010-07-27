@@ -1,0 +1,11 @@
+h1. Spree Calculators
+
+A small collection of a few useful calculators for Spree Commerce.
+
+*Flexrate Per Quantity*<br />
+Provides assigning a flexible rate per quantity of items sold.
+
+*Per Quantity*<br />
+Provides assigning a flat rate per quantity of items sold.
+
+Copyright (c) 2010, Brandon Calloway.  Released under the MIT license.
